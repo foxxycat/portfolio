@@ -29,13 +29,13 @@ a {
 }
 .header {
 	
-	background-image: url(../img/header-img.png);
+	background-image: url(header-img.png);
 	background-repeat: no-repeat;
 	background-position: bottom;
 }
 .top-footer {
 	height: 82px;
-	background-image: url(../img/footer-img.png);
+	background-image: url(footer-img.png);
 	background-repeat: no-repeat;
 }
 .navigator {
@@ -142,7 +142,7 @@ svg path.active {
 	margin-top: 40px;
 }
 .social-icons a {
-	background-image: url(../img/social-icons.png);
+	background-image: url(social-icons.png);
 	background-repeat: no-repeat;
 	height: 30px;
 	width: 30px;
